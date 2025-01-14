@@ -8,7 +8,7 @@ const client = new tmi.Client({
         password: CREDS.twitch_password
     },
     //// The channels you want your bot to be in
-    channels: [ 'benjaminmcp0tv', 'turtlewax85' ]
+    channels: [ 'amouranth', 'SypherPK' ]
 });
 
 client.connect().catch(console.error);
