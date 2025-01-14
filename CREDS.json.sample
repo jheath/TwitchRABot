@@ -1,0 +1,6 @@
+{
+   "twitchbot_username": "MY_BOT_TWITCH_HANDLE",
+   "twitchbot_password": "oauth:somelongstringwithlettersandnumbers",
+   "ra_username": "xXgamerpro69420Xx",
+   "ra_webApiKey": "anotherlongstring"
+}
